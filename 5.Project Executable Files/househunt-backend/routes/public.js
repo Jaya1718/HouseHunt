@@ -16,3 +16,4 @@ router.get("/properties", async (req, res) => {
 });
 
 export default router;
+
