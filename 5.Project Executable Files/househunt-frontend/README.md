@@ -1,4 +1,4 @@
-# Househunt - MERN Stack Property Rental App
+# Househunt - MERN Stack Property Rental 
 
 A full-stack property rental application built with:
 
