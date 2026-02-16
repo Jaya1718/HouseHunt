@@ -11,7 +11,7 @@ import AdminUsers from "./pages/AdminUsers.jsx";
 import OwnerDashboard from "./pages/OwnerDashboard.jsx";
 import MyBookings from "./pages/MyBookings.jsx";
 function App() {
-  return (
+  return(
     <>
       {/* Global navigation bar */}
       <Navbar />
