@@ -50,3 +50,4 @@ router.put("/owners/:id/approve", isAdmin, async (req, res) => {
 });
 
 export default router;
+
