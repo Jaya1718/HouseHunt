@@ -22,4 +22,4 @@ A full-stack property rental application built with:
 
 ---
 
-© 2025 Nithish Attili
+
