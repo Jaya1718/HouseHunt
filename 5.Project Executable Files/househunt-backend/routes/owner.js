@@ -181,3 +181,4 @@ router.patch("/bookings/:id/status", requireAuth, isOwner, async (req, res) => {
 });
 
 export default router;
+
