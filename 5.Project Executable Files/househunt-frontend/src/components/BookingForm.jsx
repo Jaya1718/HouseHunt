@@ -94,3 +94,4 @@ export default function BookingForm({ propertyId }) {
     </form>
   );
 }
+
