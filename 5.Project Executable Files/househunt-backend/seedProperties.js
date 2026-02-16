@@ -56,3 +56,4 @@ const seedProperties = async () => {
 };
 
 seedProperties();
+
