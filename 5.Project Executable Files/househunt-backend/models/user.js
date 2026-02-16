@@ -29,3 +29,4 @@ const userSchema = new mongoose.Schema(
 userSchema.index({ role: 1, status: 1 });
 
 export default mongoose.model("User", userSchema);
+
